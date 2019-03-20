@@ -13,3 +13,7 @@ project/plugins/project/
 .history
 .cache
 .lib/
+
+_site
+.sass-cache
+.jekyll-metadata
